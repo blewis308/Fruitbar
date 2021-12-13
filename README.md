@@ -29,9 +29,10 @@ There are some items you will need in order to build your Fruitbar
 
 ### Required
 
-* A soldering iron
+* Soldering iron
 * Solder
-* A small phillips screwdriver
+* Small phillips screwdriver
+* Flush-cutters or wire-cutters
 
 ### Optional
 
@@ -70,3 +71,18 @@ Note about this guide: For this guide, I am building a board with an Elite-C and
 
 All that being said, let's get started!
 
+### Step 1: Prepare the Diodes
+#### Estimated time: 1 hour
+
+The Diode footprints on the PCB are dual-footprint. This means you can use either through-hole (included) or surface-mount diodes on the PCB.
+
+![Diode-Legs](img/diodelegs.jpg)
+Bend each diode so the legs are 90deg right next to the diode body.
+
+![Diode-Lines](img/diodelines.jpg)
+There is a black line on one end of the diode - when you are putting the diodes into the pcb, make sure you line this up with the filled in side of the marking on the pcb or the way the little arrow is pointing.
+
+![Diode-Example](img/diodeexample.jpg)
+This is how it should look, all the diodes should be like this except for the one next to the controller.
+
+![Diode-Solder](img/diodesolder.jpg)
