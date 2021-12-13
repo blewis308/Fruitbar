@@ -63,4 +63,9 @@ ___
 ### Total Estimated Time: 2-3 hours
 
 #### Before you begin!
-Please double check everything is here! 
+Please double check everything is here! There is a very slim chance we forgot something or that your order is wrong; in the case this is true, please reach out via email at [support@fruitykeeb.xyz](mailto:support@fruitykeeb.xyz) and we will work with you to get it right. **Also**, due to the DIY nature of this hobby, as soon as a soldering iron touches the board, I am no longer able to issue a refund/replacement. Please refer to the [terms and conditions](https://www.fruitykeeb.xyz/terms-and-conditions) listed on my site for more info.
+
+Note about this guide: For this guide, I am building a board with an Elite-C and Encoder - yours may differ. You are free to adjust or skip steps if they do not apply to your scenario. 
+
+All that being said, let's get started!
+
