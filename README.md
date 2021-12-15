@@ -71,7 +71,7 @@ Note about this guide: For this guide, I am building a board with an Elite-C and
 
 All that being said, let's get started!
 
-### Step 1: Prepare the Diodes
+### Step 1: The Diodes
 #### Estimated time: 1 hour
 
 The Diode footprints on the PCB are dual-footprint. This means you can use either through-hole (included) or surface-mount diodes on the PCB.
@@ -86,3 +86,21 @@ There is a black line on one end of the diode - when you are putting the diodes 
 This is how it should look, all the diodes should be like this except for the one next to the controller.
 
 ![Diode-Solder](img/diodesolder.jpg)
+Then solder the diodes in place. ![This is a very good video to watch if you are not experienced with through-hole soldering](https://youtu.be/vAx89WhpZ3k). Take your time with this and try not to rush.
+
+
+### Step 2: Headers and OLED
+
+Before we move on further, we need to solder the headers for the controller and the OLED Module.
+
+*Note:* if you are using peel-a-way or other hotswap sockets for the controller, you may deviate during this step. 
+
+![Controller-Tape](img/controllertape.jpg)
+First use tape to hold the headers and controller tight against the PCB
+
+![Controller-Flush](img/controllerflush.jpg)
+When we flip the PCB over, we need the headers to be ***flush*** with the topside of the PCB. This can either be done by adjusting the pins slightly to be flush or by cutting them flush with our flush-cutters from the last step. 
+
+![Controller-Solder](img/controllersolder.jpg)
+Then, solder **just the headers to the PCB** **DO NOT solder the controller to the headers yet**!!!
+
