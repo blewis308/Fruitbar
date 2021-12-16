@@ -141,3 +141,15 @@ First up is stabilizers, for this board I'm useing Durock V2 stabs with the full
 ![Switches-Plate](img/switches.jpg)
 Next we're going to place a starting amount of switches in our place and press it onto the PCB. I usually recommend 4-10 switches first, but the area around the OLED screen should get all the switches as shown. This helps secure the switches in all the way as the OLED can make the plate bulge a little bit.
 
+<br/>
+Finish soldering all the switches in. Then, bend the legs of the `Home` switch bcause if they are poking out, they may short with the controller USB port. Alternatively, you can put a piece of electrical tape on the top of the controller to help mitigate this.
+
+![Controller](img/controller.jpg)
+Before we solder the controller, make sure to flash it with your preferred firmware first. I recommend the VIAL hex provided in the [/Firmware](/firmware) folder; QMK is always a great choice and ZMK is perfect for boards using a Nice!Nano or equivalent controller.
+
+<br/>
+
+### That's it! 
+Pretty straightforward build, nothing *too* crazy. Slap some keycaps on there, take some pics, and post them in [#Pictures in the Fruitykeeb Discord](https://discord.gg/Qzrua9V2Ec)!
+
+Thanks again for such a successful GB and know that I appreciate each and every one of y'all so much <3
