@@ -94,6 +94,7 @@ Then solder the diodes in place. [This is a very good video to watch if you are 
 
 
 ### Step 2: Headers and OLED
+#### Estimated time: 30 mins
 
 Before we move on further, we need to solder the headers for the controller and the OLED Module.
 
@@ -108,8 +109,35 @@ When we flip the PCB over, we need the headers to be *flush* with the topside of
 ![Controller-Solder](img/controllersolder.jpg)
 Then, solder **just the headers to the PCB** **DO NOT solder the controller to the headers yet**!!!
 
-![Oled-Headers](img/oledheader.jpg)
+![Oled-Headers](img/oledpins.jpg)
 Flip the PCB over and insert the headers for the OLED module and tape in place.
 
 ![Oled-Solder](img/oledsolder.jpg)
-Solder the OLED headers in place. **Be careful not to let any solder seep into the exposed vias next to the header
+Solder the OLED headers in place. **Be careful not to let any solder seep into the exposed vias next to the header!** This can cause shorts.
+
+![Oled-Taped](img/oledtape)
+Because the OLED needs to rest flush on the PCB, putting a small piece of electrical tape here is **critical**. If this is skipped or excluded, shorts can occur and could render the board in operable. 
+
+![Oled-Soldered](img/oledinstall.jpg)
+Now we can install and solder the OLED module as shown and clip the excess from the pins. 
+
+
+<br/><br/>
+
+### Step 3: Switches and Encoder
+#### Estimated time: 1 hour
+
+#### Optional: Encoder
+![Encoder-Clip](img/encoderclip.jpg)
+First thing we need to do is to clip off the legs on the side of the encoder. These are just for extra support and really serve no function.
+
+![Encoder-Solder](img/encodersolder.jpg)
+Next, solder the encoder on in the designated location. 
+
+#### Switches
+![Stabilizers](img/stabilizers.jpg)
+First up is stabilizers, for this board I'm useing Durock V2 stabs with the full space and full shift layout.
+
+![Switches-Plate](img/switches.jpg)
+Next we're going to place a starting amount of switches in our place and press it onto the PCB. I usually recommend 4-10 switches first, but the area around the OLED screen should get all the switches as shown. This helps secure the switches in all the way as the OLED can make the plate bulge a little bit.
+
