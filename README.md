@@ -153,3 +153,10 @@ Before we solder the controller, make sure to flash it with your preferred firmw
 Pretty straightforward build, nothing *too* crazy. Slap some keycaps on there, take some pics, and post them in [#Pictures in the Fruitykeeb Discord](https://discord.gg/Qzrua9V2Ec)!
 
 Thanks again for such a successful GB and know that I appreciate each and every one of y'all so much <3
+
+#### Known Issues
+
+* Stepped Capslock switch placing is wrong and will not work.
+* PCB scratches and shorts *really* easily.
+
+If you have any questions, feel free to ask in the discord or shoot an email to [support@fruitykeeb.xyz](mailto:support@fruitykeeb.xyz).
