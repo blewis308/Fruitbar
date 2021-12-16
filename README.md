@@ -88,6 +88,10 @@ This is how it should look, all the diodes should be like this except for the on
 ![Diode-Solder](img/diodesolder.jpg)
 Then solder the diodes in place. [This is a very good video to watch if you are not experienced with through-hole soldering](https://youtu.be/vAx89WhpZ3k). Take your time with this and try not to rush.
 
+<br/><br/>
+
+**Please be careful when cutting the diode legs as the PCB scratches easily and can cause shorts.**
+
 
 ### Step 2: Headers and OLED
 
@@ -99,8 +103,13 @@ Before we move on further, we need to solder the headers for the controller and 
 First use tape to hold the headers and controller tight against the PCB
 
 ![Controller-Flush](img/controllerflush.jpg)
-When we flip the PCB over, we need the headers to be ***flush*** with the topside of the PCB. This can either be done by adjusting the pins slightly to be flush or by cutting them flush with our flush-cutters from the last step. 
+When we flip the PCB over, we need the headers to be *flush* with the topside of the PCB. This can either be done by adjusting the pins slightly to be flush or by cutting them flush with our flush-cutters from the last step. 
 
 ![Controller-Solder](img/controllersolder.jpg)
 Then, solder **just the headers to the PCB** **DO NOT solder the controller to the headers yet**!!!
 
+![Oled-Headers](img/oledheader.jpg)
+Flip the PCB over and insert the headers for the OLED module and tape in place.
+
+![Oled-Solder](img/oledsolder.jpg)
+Solder the OLED headers in place. **Be careful not to let any solder seep into the exposed vias next to the header
