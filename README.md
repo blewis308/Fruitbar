@@ -115,7 +115,7 @@ Flip the PCB over and insert the headers for the OLED module and tape in place.
 ![Oled-Solder](img/oledsolder.jpg)
 Solder the OLED headers in place. **Be careful not to let any solder seep into the exposed vias next to the header!** This can cause shorts.
 
-![Oled-Taped](img/oledtape)
+![Oled-Taped](img/oledtape.jpg)
 Because the OLED needs to rest flush on the PCB, putting a small piece of electrical tape here is **critical**. If this is skipped or excluded, shorts can occur and could render the board in operable. 
 
 ![Oled-Soldered](img/oledinstall.jpg)
