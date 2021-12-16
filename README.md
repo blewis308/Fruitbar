@@ -86,7 +86,7 @@ There is a black line on one end of the diode - when you are putting the diodes 
 This is how it should look, all the diodes should be like this except for the one next to the controller.
 
 ![Diode-Solder](img/diodesolder.jpg)
-Then solder the diodes in place. ![This is a very good video to watch if you are not experienced with through-hole soldering](https://youtu.be/vAx89WhpZ3k). Take your time with this and try not to rush.
+Then solder the diodes in place. [This is a very good video to watch if you are not experienced with through-hole soldering](https://youtu.be/vAx89WhpZ3k). Take your time with this and try not to rush.
 
 
 ### Step 2: Headers and OLED
