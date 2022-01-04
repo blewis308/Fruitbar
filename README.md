@@ -33,11 +33,11 @@ There are some items you will need in order to build your Fruitbar
 * Solder
 * Small phillips screwdriver
 * Flush-cutters or wire-cutters
+* Electrical or Kapton Tape
 
 ### Optional
 
 * Flux - if you are not using leaded solder, flux is recommended
-* Electrical Tape
 
 ___
 
@@ -57,6 +57,7 @@ Included in each kit is the following:
 * E - 0.91" I2C OLED Module
 * F - *Either* Elite-C (Left) or Pro-Micro (Right) - Depends on what you ordered
 * G - Holographic Fruitybooty Sticker :)
+* (not pictured) EC-11 Rotary Encoder and Knob
 
 ___
 
